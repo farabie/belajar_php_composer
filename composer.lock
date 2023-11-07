@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ccc108fc66854c9bb285d1524e4fb6c8",
+    "content-hash": "9af690dbb3843ecfc60102d104e1d201",
     "packages": [
         {
             "name": "bieproject/belajar_php_composer_library",
@@ -29,6 +29,7 @@
                     "BieProject\\Library\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "authors": [
                 {
                     "name": "Muhammad Farabie",
@@ -37,8 +38,8 @@
             ],
             "description": "Belajar Membuat Composer Library",
             "support": {
-                "source": "https://github.com/farabie/belajar_php_composer_library/tree/2.0.0",
-                "issues": "https://github.com/farabie/belajar_php_composer_library/issues"
+                "issues": "https://github.com/farabie/belajar_php_composer_library/issues",
+                "source": "https://github.com/farabie/belajar_php_composer_library/tree/2.0.0"
             },
             "time": "2023-11-07T04:30:12+00:00"
         },

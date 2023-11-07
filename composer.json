@@ -13,12 +13,6 @@
       "email": "farabie024@gmail.com"
     }
   ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/farabie/belajar_php_composer_library"
-    }
-  ],
   "require": {
     "php": ">=8.0",
     "bieproject/belajar_php_composer_library": "2.0.0",

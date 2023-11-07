@@ -26,6 +26,7 @@
                     "BieProject\\Library\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "authors": [
                 {
                     "name": "Muhammad Farabie",
@@ -34,8 +35,8 @@
             ],
             "description": "Belajar Membuat Composer Library",
             "support": {
-                "source": "https://github.com/farabie/belajar_php_composer_library/tree/2.0.0",
-                "issues": "https://github.com/farabie/belajar_php_composer_library/issues"
+                "issues": "https://github.com/farabie/belajar_php_composer_library/issues",
+                "source": "https://github.com/farabie/belajar_php_composer_library/tree/2.0.0"
             },
             "install-path": "../bieproject/belajar_php_composer_library"
         },
