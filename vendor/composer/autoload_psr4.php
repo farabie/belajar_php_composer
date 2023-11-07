@@ -8,5 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'Psr\\Log\\' => array($vendorDir . '/psr/log/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
+    'BieProject\\Library\\' => array($vendorDir . '/bieproject/belajar_php_composer_library/src'),
     'AbieProject\\' => array($baseDir . '/src'),
 );

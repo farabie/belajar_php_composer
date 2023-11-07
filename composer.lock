@@ -4,8 +4,44 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "85c927e9a78b8aba63b50ba809a2e293",
+    "content-hash": "3e6e85c7dc09e74a5ed9cf7c2c6b177c",
     "packages": [
+        {
+            "name": "bieproject/belajar_php_composer_library",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/farabie/belajar_php_composer_library.git",
+                "reference": "f25ffccbd52a0e8e656bc97d85d786b7a59af05e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/farabie/belajar_php_composer_library/zipball/f25ffccbd52a0e8e656bc97d85d786b7a59af05e",
+                "reference": "f25ffccbd52a0e8e656bc97d85d786b7a59af05e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BieProject\\Library\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Muhammad Farabie",
+                    "email": "farabie024@gmail.com"
+                }
+            ],
+            "description": "Belajar Membuat Composer Library",
+            "support": {
+                "source": "https://github.com/farabie/belajar_php_composer_library/tree/1.0.0",
+                "issues": "https://github.com/farabie/belajar_php_composer_library/issues"
+            },
+            "time": "2023-11-07T04:01:40+00:00"
+        },
         {
             "name": "monolog/monolog",
             "version": "3.5.0",
@@ -164,7 +200,9 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=8.0"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.6.0"
 }

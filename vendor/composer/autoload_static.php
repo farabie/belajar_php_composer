@@ -15,6 +15,10 @@ class ComposerStaticInit2ad5659b96e43febc57b150e21733959
         array (
             'Monolog\\' => 8,
         ),
+        'B' => 
+        array (
+            'BieProject\\Library\\' => 19,
+        ),
         'A' => 
         array (
             'AbieProject\\' => 12,
@@ -29,6 +33,10 @@ class ComposerStaticInit2ad5659b96e43febc57b150e21733959
         'Monolog\\' => 
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
+        ),
+        'BieProject\\Library\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/bieproject/belajar_php_composer_library/src',
         ),
         'AbieProject\\' => 
         array (
