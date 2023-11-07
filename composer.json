@@ -21,7 +21,7 @@
   ],
   "require": {
     "php": ">=8.0",
-    "bieproject/belajar_php_composer_library": "1.0.0",
+    "bieproject/belajar_php_composer_library": "2.0.0",
     "monolog/monolog": "3.5.0"
   }
 }

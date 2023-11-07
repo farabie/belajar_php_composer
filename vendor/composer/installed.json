@@ -2,23 +2,23 @@
     "packages": [
         {
             "name": "bieproject/belajar_php_composer_library",
-            "version": "1.0.0",
-            "version_normalized": "1.0.0.0",
+            "version": "2.0.0",
+            "version_normalized": "2.0.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/farabie/belajar_php_composer_library.git",
-                "reference": "f25ffccbd52a0e8e656bc97d85d786b7a59af05e"
+                "reference": "6a91d998baf7b52f44164a8e411820475552b53c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/farabie/belajar_php_composer_library/zipball/f25ffccbd52a0e8e656bc97d85d786b7a59af05e",
-                "reference": "f25ffccbd52a0e8e656bc97d85d786b7a59af05e",
+                "url": "https://api.github.com/repos/farabie/belajar_php_composer_library/zipball/6a91d998baf7b52f44164a8e411820475552b53c",
+                "reference": "6a91d998baf7b52f44164a8e411820475552b53c",
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.0"
             },
-            "time": "2023-11-07T04:01:40+00:00",
+            "time": "2023-11-07T04:30:12+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -34,7 +34,7 @@
             ],
             "description": "Belajar Membuat Composer Library",
             "support": {
-                "source": "https://github.com/farabie/belajar_php_composer_library/tree/1.0.0",
+                "source": "https://github.com/farabie/belajar_php_composer_library/tree/2.0.0",
                 "issues": "https://github.com/farabie/belajar_php_composer_library/issues"
             },
             "install-path": "../bieproject/belajar_php_composer_library"
