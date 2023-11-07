@@ -3,7 +3,7 @@
         'name' => 'abieproject/belajar-php-composer',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'c755576e585ef616672733b1a912a23ffa2606a3',
+        'reference' => '2665efe38addea00ae076c940f4c80db98f1bb72',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'abieproject/belajar-php-composer' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'c755576e585ef616672733b1a912a23ffa2606a3',
+            'reference' => '2665efe38addea00ae076c940f4c80db98f1bb72',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
