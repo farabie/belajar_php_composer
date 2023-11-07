@@ -13,5 +13,7 @@
             "email": "farabie024@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "3.5.0"
+    }
 }
