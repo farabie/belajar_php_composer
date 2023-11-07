@@ -9,12 +9,12 @@ class ComposerStaticInit2ad5659b96e43febc57b150e21733959
     public static $prefixLengthsPsr4 = array (
         'A' => 
         array (
-            'Abieproject\\BelajarPhpComposer\\' => 31,
+            'AbieProject\\' => 12,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Abieproject\\BelajarPhpComposer\\' => 
+        'AbieProject\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
