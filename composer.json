@@ -1,0 +1,17 @@
+{
+    "name": "abieproject/belajar-php-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Abieproject\\BelajarPhpComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Farabie",
+            "email": "farabie024@gmail.com"
+        }
+    ],
+    "require": {}
+}
